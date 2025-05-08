@@ -91,5 +91,47 @@ Fixing requirement errors late in development can be **extremely expensive** and
 
 📌 *Example:* The failure of the Denver Airport baggage system was due to poor Requirement Analysis, causing **years of delay and excessive budget overruns**.
 
+# Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help define, document, and validate software requirements. Below are the five key activities in this process:
+
+## 1. Requirement Gathering  
+Requirement Gathering is the process of collecting information from stakeholders to understand their needs and expectations.  
+- Involves interviews, surveys, and workshops.  
+- Ensures all necessary requirements are identified before development begins.  
+
+📌 *Example:* In an e-commerce project, gathering requirements from customers ensures the platform includes essential features like payment gateways and order tracking.
+
+## 2. Requirement Elicitation  
+Requirement Elicitation focuses on refining and clarifying gathered requirements.  
+- Uses techniques like brainstorming, prototyping, and use case analysis.  
+- Helps uncover hidden or unstated requirements.  
+
+📌 *Example:* In a banking system, elicitation ensures security protocols are well-defined to prevent fraud.
+
+## 3. Requirement Documentation  
+Requirement Documentation involves structuring and recording requirements in a formal document.  
+- Ensures clarity and consistency across teams.  
+- Uses formats like Software Requirement Specification (SRS).  
+
+📌 *Example:* A healthcare system requires detailed documentation to comply with regulations like HIPAA.
+
+## 4. Requirement Analysis and Modeling  
+Requirement Analysis and Modeling help visualize and structure requirements for better understanding.  
+- Uses diagrams like flowcharts and use case models.  
+- Identifies dependencies and potential conflicts.  
+
+📌 *Example:* In a logistics system, modeling helps define interactions between warehouses, delivery agents, and customers.
+
+## 5. Requirement Validation  
+Requirement Validation ensures that documented requirements meet stakeholder expectations.  
+- Involves reviews, testing, and feedback sessions.  
+- Prevents costly errors before development begins.  
+
+📌 *Example:* In a mobile app project, validation ensures user experience requirements align with customer needs.
+
+---
+
+Ensure that this section is added and formatted correctly in your `README.md` file. Once completed, commit the changes to GitHub.
 
 
