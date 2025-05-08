@@ -130,8 +130,5 @@ Requirement Validation ensures that documented requirements meet stakeholder exp
 
 📌 *Example:* In a mobile app project, validation ensures user experience requirements align with customer needs.
 
----
-
-Ensure that this section is added and formatted correctly in your `README.md` file. Once completed, commit the changes to GitHub.
 
 
